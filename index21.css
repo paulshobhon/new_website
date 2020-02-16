@@ -1,0 +1,16 @@
+
+.bg{
+height: 70vw;
+  background: url(photo.jpg) ;
+background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+
+}
+.blogs{
+  margin: 2px;
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+}
